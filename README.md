@@ -3,26 +3,13 @@
 <!--
 **mastruzz/mastruzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
-      },
-      backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
-      },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
-   },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
-}
+[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luisapataquini)](https://github.com/luisapataquini)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittoria-borotto/)](https://www.linkedin.com/in/luisapataquini/)
+<img src="https://img.shields.io/badge/Back End-Java-f55247"/>
+<img src="https://img.shields.io/badge/Angular-developer"/>
+<img src="https://img.shields.io/badge/dev-fullstack-orange"/>
+<img src="https://img.shields.io/badge/dev-javascript-yellow"/>
+<img src="https://img.shields.io/badge/learning-docker-blue"/>
 
 Here are some ideas to get you started:
 

@@ -10,4 +10,4 @@
 <img src="https://img.shields.io/badge/dev-javascript-yellow"/>
 <img src="https://img.shields.io/badge/learning-docker-blue"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastruzz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Mastruzz's github stats](https://github-readme-stats.vercel.app/api?username=mastruzz&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastruzz&layout=compact)](https://github.com/mastruzz) ![Mastruzz's github stats](https://github-readme-stats.vercel.app/api?username=mastruzz&show_icons=true&theme=tokyonight)

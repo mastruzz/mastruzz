@@ -11,8 +11,6 @@
 <img src="https://img.shields.io/badge/learning-docker-blue"/>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mastruzz&show_icons=true&theme=radical&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mastruzz&hide_langs_below=.25&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mastruzz&show_icons=true&theme=tokyonight&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mastruzz&hide_langs_below=.25&theme=tokyonight">
 </p>
-
-![Mastruzz's github stats](https://github-readme-stats.vercel.app/api?username=mastruzz&show_icons=true&theme=tokyonight)

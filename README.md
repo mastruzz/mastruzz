@@ -10,4 +10,8 @@
 <img src="https://img.shields.io/badge/dev-javascript-yellow"/>
 <img src="https://img.shields.io/badge/learning-docker-blue"/>
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=LucasCapSilva&show_icons=true&theme=radical&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCapSilva&hide_langs_below=.25&theme=radical">
+</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastruzz&layout=compact)](https://github.com/mastruzz/repositories) ![Mastruzz's github stats](https://github-readme-stats.vercel.app/api?username=mastruzz&show_icons=true&theme=tokyonight)

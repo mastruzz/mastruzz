@@ -4,10 +4,8 @@
 <img src="https://img.shields.io/badge/Back End-Java-f55247"/>
 <img src="https://img.shields.io/badge/Angular-developer"/>
 <img src="https://img.shields.io/badge/fullstack-dev-orange"/>
-<img src="https://img.shields.io/badge/javascript-dev-yellow"/>
 <img src="https://img.shields.io/badge/docker-learning-blue"/>
 <img src="https://img.shields.io/badge/SGDB-MYSQL-orange"/>
-<img src="https://img.shields.io/badge/dev-javascript-yellow"/>
 <img src="https://img.shields.io/badge/learning-docker-blue"/>
 
 <p align = "center">
